@@ -10,6 +10,8 @@ My primary languages are **C++** and **Java**.
 
 I am also handy with **Linux**, **bash**, **git** and **GitHub**.
 
+I am a **Software/Hardware Intern** at [Sound Life Sciences](https://soundlifesci.com).
+
 #### Code and stuff
 
 Here is a repository with some of my [sample code and projects](https://tgill880.github.io/sample-code).
