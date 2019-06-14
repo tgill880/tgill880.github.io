@@ -16,7 +16,7 @@ I am a **Software/Hardware Intern** at [Sound Life Sciences](https://soundlifesc
 
 Here is a repository with some of my [sample code and projects](https://tgill880.github.io/sample-code).
 
-I am also the primary co-author of the `chops-net-ip` and `utility-rack` repositories at [connectivecpp](https://github.com/connectivecpp), an open source, C++17 networking library. I have written the example code, and am porting the library to the [ESP32 chip](https://www.espressif.com/en/products/hardware/esp32/overview).
+I am also the primary co-author of the `chops-net-ip` and `utility-rack` repositories at [connectivecpp](https://connectivecpp.github.io), an open source, C++17 networking library. I have written the example code, and am porting the library to the [ESP32 chip](https://www.espressif.com/en/products/hardware/esp32/overview).
 
 #### More info
 
