@@ -8,9 +8,9 @@ I am a second career software developer.
 
 My primary languages are **C++** and **Java**.
 
-I am also handy with **Linux**, **bash**, **git** and **GitHub**.
+I am also handy with **Linux**, **bash**, **git**,  **GitHub** and **macOS**.
 
-I am a **Software/Hardware Intern** at [Sound Life Sciences](https://soundlifesci.com).
+I am a **Software Engineer** at [Sound Life Sciences](https://soundlifesci.com).
 
 #### Code and stuff
 
