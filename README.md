@@ -6,11 +6,11 @@
 
 I am a second career software developer.
 
-My primary languages are **C++** and **Java**.
+My primary languages are **C++** and **Java**. My favorite build system uses **CMake**, **vcpkg** and **Catch2**.
 
-I am also handy with **Linux**, **bash**, **git**,  **GitHub** and **macOS**.
+I am also handy with **Linux**, **bash**, **PowerShell**, **git**, **GitHub**, **Windows** and **macOS**.
 
-I am a **Software Engineer** at [Sound Life Sciences](https://soundlifesci.com).
+I am a **Software Engineer II** at [Sound Life Sciences](https://soundlifesci.com).
 
 #### Code and stuff
 
