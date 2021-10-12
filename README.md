@@ -6,7 +6,7 @@
 
 I am a second career software developer.
 
-My primary languages are **C++** and **Java**. My favorite build system uses **CMake**, **vcpkg** and **Catch2**.
+My primary languages are **C++** and **Java**. My favorite build system uses **CMake**, **vcpkg**, **Catch2** and **maven**.
 
 I am also handy with **Linux**, **bash**, **PowerShell**, **git**, **GitHub**, **Windows** and **macOS**.
 
